@@ -1,0 +1,25 @@
+ *{
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100vh;
+    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.Color-Container{
+    height: 10%;
+    width: 90%;
+    display: flex;
+    margin: 50px;
+    align-items: right;
+    font-family: sans-serif;
+    font-weight: 100;
+    justify-content: right;
+    flex-direction: column;
+    flex-wrap: wrap;
+} 
