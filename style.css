@@ -12,6 +12,7 @@ body{
     
 }
 .Color-Container{
+    border: 3px solid black;
     height: 10%;
     width: 90%;
     display: flex;
